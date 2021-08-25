@@ -1,5 +1,10 @@
+.container{
+    margin-bottom: 50px;
+}
+
 .bg-color{
     background-color: #fceae8;
+    border-radius: 10px;
 }
 
 .carousel-item{
@@ -17,4 +22,29 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+
+.cat1{
+    background-color: orangered;
+}
+
+.cat2{
+    background-color: orchid;
+}
+
+.cat3{
+    background-color: darkorange;
+}
+
+.categories h1{
+    color: white;
+}
+
+.categories img{
+    width: 100px;
 }

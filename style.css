@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .bg-color{
@@ -47,4 +47,12 @@
 
 .categories img{
     width: 100px;
+}
+
+#Contuct{
+    height: 300px;
+}
+
+footer{
+    text-align: center;
 }
